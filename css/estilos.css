@@ -1,0 +1,56 @@
+.rubik-scribble-regular {
+  font-family: "Rubik Scribble", system-ui;
+  font-weight: 900;
+
+  font-style: normal;
+  text-align:center;
+  color:burlywood;
+  margin-top: 60px;
+  margin-bottom: 100px;
+  background-color: rgb(83, 160, 102);
+  margin: auto;
+}
+  
+  .parisienne-regular {
+    font-family: "Parisienne", cursive;
+    font-weight: 600;
+    font-style: normal;
+    text-align:center;
+    color:whitesmoke;
+  }
+
+  .comfortaa-uniq {
+    font-family: "Comfortaa", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    text-align:center;
+    margin-top: 30px;
+    color:rgb(83, 160, 102);
+  }
+.container
+{
+    background-color: aqua;
+    
+    height: 100px;
+}
+
+.container-fluid
+{
+   /* background-color: coral;
+   
+    height: 100px;*/
+}
+.row
+{
+    background-color: rgb(201, 223, 194);
+    margin: 5px;
+}
+.col{
+    background-color: plum;
+    margin: 5px;
+}
+.card-img-top{
+  margin: 3px;
+  margin-left: auto;
+}
